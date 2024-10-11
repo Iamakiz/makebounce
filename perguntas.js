@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'conhecimento gerais,
+    'conhecimento gerais',
     'O que é maior: gigabyteou megabyte?',
     'o gigabyte'
 )
 
 criaCartao(
-    'conhecimento gerais,
+    'conhecimento gerais',
     'o que écomemorando no dia 21 de abril no Brasil?',
     'Tiradentes'
 )
