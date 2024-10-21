@@ -1,23 +1,23 @@
 criaCartao(
-    'conhecimento gerais',
-    'Onde se localiza Machu Picchu?',
-    'É localizado no Peru'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'conhecimento gerais,'
-    'Quantos ossos temos no nosso corpo?',
-    '206. 22 ossos na cabeça, 1 no pescoço, 6 no ouvido, 44 no tórax, 7 no abdômen e etc...'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'conhecimento gerais',
-    'O que é maior: gigabyteou megabyte?',
-    'o gigabyte'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'conhecimento gerais',
-    'o que écomemorando no dia 21 de abril no Brasil?',
-    'Tiradentes'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
