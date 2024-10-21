@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'conhecimnto gerais',
+    'De onde é a invenção do chuveiro elétrico?',
+    'Brasil.Francisco Canhos é o nome do homem que, na década de 40, desenvolveu o primeiro chuveiro elétrico seguro em Jaú-SP.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'conhecimnto gerais',
+    ' Qual o grupo em que todas as palavras foram escritas corretamente?',
+    'Asterisco, beneficente, meteorologia, entretido.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'conhecimnto gerais',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'conhecimnto gerais',
+    'Quem pintou "Guernica"?',
+    'Pablo Picasso.'
 )
